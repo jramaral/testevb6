@@ -1,0 +1,61 @@
+
+Clicou no botao - Data:31/12/2020 - Hora:15:33:56
+Clicou no botao - Data:31/12/2020 - Hora:15:34:05
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:15:36:58
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:15:43:42
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:15:43:46
+Encerrou o sistmea - Data:31/12/2020 - Hora:15:43:48
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:15:43:54
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:15:46:04
+Erro Type mismatch - Data:31/12/2020 - Hora:15:49:02
+Erro Type mismatch - Data:31/12/2020 - Hora:15:50:37
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:15:55:32
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:15:57:19
+Erro Type mismatch - Data:31/12/2020 - Hora:15:58:27
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:16:01:14
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:04:08
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:04:37
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:16:04:39
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:16:04:59
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:05:24
+Erro Object variable or With block variable not set - Data:31/12/2020 - Hora:16:05:52
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:05:57
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:06:09
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:06:14
+Banco de dados acessado - Data:31/12/2020 - Hora:16:06:14
+Dados gravados no banco de dados - Data:31/12/2020 - Hora:16:06:16
+Dados Gravados  - Data:31/12/2020 - Hora:16:06:16
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:06:21
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:11:14
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:11:18
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:11:20
+Banco de dados acessado - Data:31/12/2020 - Hora:16:11:20
+Dados gravados no banco de dados - Data:31/12/2020 - Hora:16:11:21
+Dados Gravados  - Data:31/12/2020 - Hora:16:11:21
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:11:23
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:16:51
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:17:01
+Banco de dados acessado - Data:31/12/2020 - Hora:16:17:01
+Erro [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__CountryI__C1FE6AA9C938F54D'. Cannot insert duplicate key in object 'dbo.CountryInfo'. The duplicate key value is (1). - Data:31/12/2020 - Hora:16:17:01
+Dados Gravados  - Data:31/12/2020 - Hora:16:17:03
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:17:08
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:18:22
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:18:23
+Banco de dados acessado - Data:31/12/2020 - Hora:16:18:23
+Dados gravados no banco de dados - Data:31/12/2020 - Hora:16:18:25
+Dados Gravados  - Data:31/12/2020 - Hora:16:18:25
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:18:26
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:21:44
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:21:46
+Banco de dados acessado - Data:31/12/2020 - Hora:16:21:47
+Dados gravados no banco de dados - Data:31/12/2020 - Hora:16:21:49
+Dados Gravados  - Data:31/12/2020 - Hora:16:21:49
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:23:16
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:25:38
+Arquivo .INI Lido - Data:31/12/2020 - Hora:16:25:39
+Banco de dados acessado - Data:31/12/2020 - Hora:16:25:40
+Erro [Microsoft][ODBC SQL Server Driver][SQL Server]Violation of PRIMARY KEY constraint 'PK__CountryI__C1FE6AA9C938F54D'. Cannot insert duplicate key in object 'dbo.CountryInfo'. The duplicate key value is (1). - Data:31/12/2020 - Hora:16:25:40
+Dados Gravados  - Data:31/12/2020 - Hora:16:25:41
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:25:42
+Xml Lido com sucesso! - Data:31/12/2020 - Hora:16:33:09
+Encerrou o sistmea - Data:31/12/2020 - Hora:16:33:10
